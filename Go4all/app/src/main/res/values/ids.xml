@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editText" type="id" />
+    <item name="button_send" type="id" />
+    <item name="dataehora" type="id" />
+    <item name="view" type="id" />
+</resources>
